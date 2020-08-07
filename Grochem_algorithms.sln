@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickSort", "quickSort\quic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchInWidth", "searchInWidth\searchInWidth.csproj", "{5DA6E804-C4A9-4CAC-97F4-AC52B0098353}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm_of_Dikstra", "algorithm_of_Dikstra\algorithm_of_Dikstra.csproj", "{A6165F1A-87EA-4638-913E-E8A120508F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5DA6E804-C4A9-4CAC-97F4-AC52B0098353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA6E804-C4A9-4CAC-97F4-AC52B0098353}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA6E804-C4A9-4CAC-97F4-AC52B0098353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6165F1A-87EA-4638-913E-E8A120508F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6165F1A-87EA-4638-913E-E8A120508F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6165F1A-87EA-4638-913E-E8A120508F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6165F1A-87EA-4638-913E-E8A120508F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
