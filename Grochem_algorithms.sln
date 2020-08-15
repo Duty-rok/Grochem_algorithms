@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchInWidth", "searchInWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm_of_Dikstra", "algorithm_of_Dikstra\algorithm_of_Dikstra.csproj", "{A6165F1A-87EA-4638-913E-E8A120508F08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greedy_algorithm", "greedy_algorithm\greedy_algorithm.csproj", "{4B82A6AD-3569-450E-92BF-7441E64E0D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A6165F1A-87EA-4638-913E-E8A120508F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6165F1A-87EA-4638-913E-E8A120508F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6165F1A-87EA-4638-913E-E8A120508F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B82A6AD-3569-450E-92BF-7441E64E0D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B82A6AD-3569-450E-92BF-7441E64E0D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B82A6AD-3569-450E-92BF-7441E64E0D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B82A6AD-3569-450E-92BF-7441E64E0D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
